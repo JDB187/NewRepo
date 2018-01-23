@@ -12,6 +12,8 @@ namespace GitHubConsoleApplication
         {
 
             // teasting123
+
+            int var = 0; 
         }
     }
 }
